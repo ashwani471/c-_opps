@@ -23,5 +23,5 @@ class complex {
 
 void main(){
    complex c1,c2(3,4) ,c3;
-   complex c4(c2);
+  //  complex c4(c2);
 }
