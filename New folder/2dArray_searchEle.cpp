@@ -9,7 +9,7 @@ int main(){
             cin>>arr[i][j];
         }
     }
-    int x;
+    int x; 
     cin>>x;
     bool flag=false;
     for(int i=0;i<n;i++){
